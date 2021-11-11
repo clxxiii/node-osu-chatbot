@@ -1,0 +1,6 @@
+{
+    "username": "",
+    "token": "",
+    "websocket": "ws://127.0.0.1:24050/ws",
+    "channels": [ "chinchoo" ]
+}
