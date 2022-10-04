@@ -15,10 +15,11 @@ If you'd like to self host, it's recommended that you have some kind of server s
 
 ### 0. Install [nodejs](https://nodejs.org/en/) and [gosumemory](https://github.com/l3lackShark/gosumemory)
 
-### 1. Clone the repository, install the dependencies
+### 1. Clone the repository, install the dependencies, cd into the directory
 ```bash
 git clone https://github.com/clxxiii/node-osu-chatbot.git
 npm install
+cd node-osu-chatbot
 ```
 
 ### 2. Fill the settings.json
