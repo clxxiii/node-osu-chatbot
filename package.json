@@ -1,0 +1,24 @@
+{
+	"name": "osu-chatbot",
+	"version": "1.0.0",
+	"description": "This is a simple program for using !np and !nppp commands in twitch chat.",
+	"main": "bot.js",
+	"bin": "bot.js",
+	"dependencies": {
+		"popups": "^1.1.3",
+		"tmi.js": "^1.8.5"
+	},
+	"scripts": {
+		"start": "node bot.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/clxxiii/node-osu-chatbot.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/clxxiii/node-osu-chatbot/issues"
+	},
+	"homepage": "https://github.com/clxxiii/node-osu-chatbot#readme"
+}
